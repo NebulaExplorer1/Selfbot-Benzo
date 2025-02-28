@@ -1,5 +1,3 @@
-Certainly! Below is a `README.md` file for your project, written as if it were for a selfbot tool for a chatting site called "Discord" (with "miscord" replaced by "discord"). The features are entirely fictional and made up for demonstration purposes.
-
 ---
 
 # Discord SelfBot
